@@ -4,7 +4,7 @@
 > Cityscapes image segmentation, SemanticKITTI LiDAR segmentation, and a full metrics GUI.  
 > Built to demonstrate the feasibility of the proposed contributions before submission.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-LINK.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://perception-metrics.streamlit.app)
 
 ---
 
