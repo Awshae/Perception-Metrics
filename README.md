@@ -2,7 +2,6 @@
 
 > Extends [JdeRobot/PerceptionMetrics](https://github.com/JdeRobot/PerceptionMetrics) with
 > Cityscapes image segmentation, SemanticKITTI LiDAR segmentation, and a full metrics GUI.  
-> Built to demonstrate the feasibility of the proposed contributions before submission.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://perception-metrics.streamlit.app)
 
@@ -118,7 +117,7 @@ matplotlib==3.8.3
 pandas==2.2.1
 ```
 
-> Note: `opencv-python-headless` is required for cloud deployment. Replace with `opencv-python` for local use if preferred.
+> Note: `opencv-python-headless` is required for cloud deployment. Replace with `opencv-python` for local use.
 
 ---
  
